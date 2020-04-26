@@ -4,7 +4,11 @@ Three machine learning classifiers were analyzed to predict if a patient require
 
 file descriptions:
 stent_nostent.pdf - report writeup
+
 kaggleHW05_ANN.ipynb - neural network analysis
+
 kaggleHW05_pca.ipynb - PCA and SVM analysis
+
 hw05_kaggle_adaboost.ipynb - adaboost decision tree analysis
+
 hw05_kaggle_EDA.ipynb - exploratory data analysis
